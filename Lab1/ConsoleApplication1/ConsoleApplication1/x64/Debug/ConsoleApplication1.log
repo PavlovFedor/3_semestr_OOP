@@ -1,0 +1,7 @@
+﻿  1234.cpp
+C:\Users\Фёдор\Desktop\1234.cpp(32,11): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Фёдор\Desktop\1234.cpp(34,53): warning C4101: maxTripleID: неиспользованная локальная переменная
+C:\Users\Фёдор\Desktop\1234.cpp(34,5): warning C4101: first: неиспользованная локальная переменная
+C:\Users\Фёдор\Desktop\1234.cpp(34,20): warning C4101: third: неиспользованная локальная переменная
+C:\Users\Фёдор\Desktop\1234.cpp(34,12): warning C4101: second: неиспользованная локальная переменная
+  ConsoleApplication1.vcxproj -> C:\Users\Фёдор\Desktop\Вуз\2 курс\1 семестр\ООП\Lab1\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe

@@ -1,0 +1,15 @@
+C:\Users\Фёдор\Desktop\Вуз\2 курс\1 семестр\ООП\Lab2\Blog\obj\Debug\net6.0\Blog.csproj.AssemblyReference.cache
+C:\Users\Фёдор\Desktop\Вуз\2 курс\1 семестр\ООП\Lab2\Blog\obj\Debug\net6.0\Blog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Фёдор\Desktop\Вуз\2 курс\1 семестр\ООП\Lab2\Blog\obj\Debug\net6.0\Blog.AssemblyInfoInputs.cache
+C:\Users\Фёдор\Desktop\Вуз\2 курс\1 семестр\ООП\Lab2\Blog\obj\Debug\net6.0\Blog.AssemblyInfo.cs
+C:\Users\Фёдор\Desktop\Вуз\2 курс\1 семестр\ООП\Lab2\Blog\obj\Debug\net6.0\Blog.csproj.CoreCompileInputs.cache
+C:\Users\Фёдор\Desktop\Вуз\2 курс\1 семестр\ООП\Lab2\Blog\bin\Debug\net6.0\Blog.exe
+C:\Users\Фёдор\Desktop\Вуз\2 курс\1 семестр\ООП\Lab2\Blog\bin\Debug\net6.0\Blog.deps.json
+C:\Users\Фёдор\Desktop\Вуз\2 курс\1 семестр\ООП\Lab2\Blog\bin\Debug\net6.0\Blog.runtimeconfig.json
+C:\Users\Фёдор\Desktop\Вуз\2 курс\1 семестр\ООП\Lab2\Blog\bin\Debug\net6.0\Blog.dll
+C:\Users\Фёдор\Desktop\Вуз\2 курс\1 семестр\ООП\Lab2\Blog\bin\Debug\net6.0\Blog.pdb
+C:\Users\Фёдор\Desktop\Вуз\2 курс\1 семестр\ООП\Lab2\Blog\obj\Debug\net6.0\Blog.dll
+C:\Users\Фёдор\Desktop\Вуз\2 курс\1 семестр\ООП\Lab2\Blog\obj\Debug\net6.0\refint\Blog.dll
+C:\Users\Фёдор\Desktop\Вуз\2 курс\1 семестр\ООП\Lab2\Blog\obj\Debug\net6.0\Blog.pdb
+C:\Users\Фёдор\Desktop\Вуз\2 курс\1 семестр\ООП\Lab2\Blog\obj\Debug\net6.0\Blog.genruntimeconfig.cache
+C:\Users\Фёдор\Desktop\Вуз\2 курс\1 семестр\ООП\Lab2\Blog\obj\Debug\net6.0\ref\Blog.dll

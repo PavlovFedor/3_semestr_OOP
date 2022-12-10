@@ -1,0 +1,15 @@
+C:\Users\Фёдор\Desktop\Вуз\2 курс\1 семестр\ООП\Lab2\Unity\bin\Debug\net6.0\Unity.exe
+C:\Users\Фёдор\Desktop\Вуз\2 курс\1 семестр\ООП\Lab2\Unity\bin\Debug\net6.0\Unity.deps.json
+C:\Users\Фёдор\Desktop\Вуз\2 курс\1 семестр\ООП\Lab2\Unity\bin\Debug\net6.0\Unity.runtimeconfig.json
+C:\Users\Фёдор\Desktop\Вуз\2 курс\1 семестр\ООП\Lab2\Unity\bin\Debug\net6.0\Unity.dll
+C:\Users\Фёдор\Desktop\Вуз\2 курс\1 семестр\ООП\Lab2\Unity\bin\Debug\net6.0\Unity.pdb
+C:\Users\Фёдор\Desktop\Вуз\2 курс\1 семестр\ООП\Lab2\Unity\obj\Debug\net6.0\Unity.csproj.AssemblyReference.cache
+C:\Users\Фёдор\Desktop\Вуз\2 курс\1 семестр\ООП\Lab2\Unity\obj\Debug\net6.0\Unity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Фёдор\Desktop\Вуз\2 курс\1 семестр\ООП\Lab2\Unity\obj\Debug\net6.0\Unity.AssemblyInfoInputs.cache
+C:\Users\Фёдор\Desktop\Вуз\2 курс\1 семестр\ООП\Lab2\Unity\obj\Debug\net6.0\Unity.AssemblyInfo.cs
+C:\Users\Фёдор\Desktop\Вуз\2 курс\1 семестр\ООП\Lab2\Unity\obj\Debug\net6.0\Unity.csproj.CoreCompileInputs.cache
+C:\Users\Фёдор\Desktop\Вуз\2 курс\1 семестр\ООП\Lab2\Unity\obj\Debug\net6.0\Unity.dll
+C:\Users\Фёдор\Desktop\Вуз\2 курс\1 семестр\ООП\Lab2\Unity\obj\Debug\net6.0\refint\Unity.dll
+C:\Users\Фёдор\Desktop\Вуз\2 курс\1 семестр\ООП\Lab2\Unity\obj\Debug\net6.0\Unity.pdb
+C:\Users\Фёдор\Desktop\Вуз\2 курс\1 семестр\ООП\Lab2\Unity\obj\Debug\net6.0\Unity.genruntimeconfig.cache
+C:\Users\Фёдор\Desktop\Вуз\2 курс\1 семестр\ООП\Lab2\Unity\obj\Debug\net6.0\ref\Unity.dll
