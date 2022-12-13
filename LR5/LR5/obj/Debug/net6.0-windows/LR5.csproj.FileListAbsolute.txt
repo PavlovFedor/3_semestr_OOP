@@ -1,0 +1,17 @@
+C:\Users\Фёдор\Desktop\Вуз\2 курс\1 семестр\ООП\3_semestr_OOP\LR5\LR5\bin\Debug\net6.0-windows\LR5.exe
+C:\Users\Фёдор\Desktop\Вуз\2 курс\1 семестр\ООП\3_semestr_OOP\LR5\LR5\bin\Debug\net6.0-windows\LR5.deps.json
+C:\Users\Фёдор\Desktop\Вуз\2 курс\1 семестр\ООП\3_semestr_OOP\LR5\LR5\bin\Debug\net6.0-windows\LR5.runtimeconfig.json
+C:\Users\Фёдор\Desktop\Вуз\2 курс\1 семестр\ООП\3_semestr_OOP\LR5\LR5\bin\Debug\net6.0-windows\LR5.dll
+C:\Users\Фёдор\Desktop\Вуз\2 курс\1 семестр\ООП\3_semestr_OOP\LR5\LR5\bin\Debug\net6.0-windows\LR5.pdb
+C:\Users\Фёдор\Desktop\Вуз\2 курс\1 семестр\ООП\3_semestr_OOP\LR5\LR5\obj\Debug\net6.0-windows\LR5.csproj.AssemblyReference.cache
+C:\Users\Фёдор\Desktop\Вуз\2 курс\1 семестр\ООП\3_semestr_OOP\LR5\LR5\obj\Debug\net6.0-windows\LR5.Form1.resources
+C:\Users\Фёдор\Desktop\Вуз\2 курс\1 семестр\ООП\3_semestr_OOP\LR5\LR5\obj\Debug\net6.0-windows\LR5.csproj.GenerateResource.cache
+C:\Users\Фёдор\Desktop\Вуз\2 курс\1 семестр\ООП\3_semestr_OOP\LR5\LR5\obj\Debug\net6.0-windows\LR5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Фёдор\Desktop\Вуз\2 курс\1 семестр\ООП\3_semestr_OOP\LR5\LR5\obj\Debug\net6.0-windows\LR5.AssemblyInfoInputs.cache
+C:\Users\Фёдор\Desktop\Вуз\2 курс\1 семестр\ООП\3_semestr_OOP\LR5\LR5\obj\Debug\net6.0-windows\LR5.AssemblyInfo.cs
+C:\Users\Фёдор\Desktop\Вуз\2 курс\1 семестр\ООП\3_semestr_OOP\LR5\LR5\obj\Debug\net6.0-windows\LR5.csproj.CoreCompileInputs.cache
+C:\Users\Фёдор\Desktop\Вуз\2 курс\1 семестр\ООП\3_semestr_OOP\LR5\LR5\obj\Debug\net6.0-windows\LR5.dll
+C:\Users\Фёдор\Desktop\Вуз\2 курс\1 семестр\ООП\3_semestr_OOP\LR5\LR5\obj\Debug\net6.0-windows\refint\LR5.dll
+C:\Users\Фёдор\Desktop\Вуз\2 курс\1 семестр\ООП\3_semestr_OOP\LR5\LR5\obj\Debug\net6.0-windows\LR5.pdb
+C:\Users\Фёдор\Desktop\Вуз\2 курс\1 семестр\ООП\3_semestr_OOP\LR5\LR5\obj\Debug\net6.0-windows\LR5.genruntimeconfig.cache
+C:\Users\Фёдор\Desktop\Вуз\2 курс\1 семестр\ООП\3_semestr_OOP\LR5\LR5\obj\Debug\net6.0-windows\ref\LR5.dll

@@ -1,0 +1,15 @@
+C:\Users\Фёдор\Desktop\Вуз\2 курс\1 семестр\ООП\3_semestr_OOP\LR5\LR5_TEST\obj\Debug\net6.0\LR5_TEST.csproj.AssemblyReference.cache
+C:\Users\Фёдор\Desktop\Вуз\2 курс\1 семестр\ООП\3_semestr_OOP\LR5\LR5_TEST\obj\Debug\net6.0\LR5_TEST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Фёдор\Desktop\Вуз\2 курс\1 семестр\ООП\3_semestr_OOP\LR5\LR5_TEST\obj\Debug\net6.0\LR5_TEST.AssemblyInfoInputs.cache
+C:\Users\Фёдор\Desktop\Вуз\2 курс\1 семестр\ООП\3_semestr_OOP\LR5\LR5_TEST\obj\Debug\net6.0\LR5_TEST.AssemblyInfo.cs
+C:\Users\Фёдор\Desktop\Вуз\2 курс\1 семестр\ООП\3_semestr_OOP\LR5\LR5_TEST\obj\Debug\net6.0\LR5_TEST.csproj.CoreCompileInputs.cache
+C:\Users\Фёдор\Desktop\Вуз\2 курс\1 семестр\ООП\3_semestr_OOP\LR5\LR5_TEST\bin\Debug\net6.0\LR5_TEST.exe
+C:\Users\Фёдор\Desktop\Вуз\2 курс\1 семестр\ООП\3_semestr_OOP\LR5\LR5_TEST\bin\Debug\net6.0\LR5_TEST.deps.json
+C:\Users\Фёдор\Desktop\Вуз\2 курс\1 семестр\ООП\3_semestr_OOP\LR5\LR5_TEST\bin\Debug\net6.0\LR5_TEST.runtimeconfig.json
+C:\Users\Фёдор\Desktop\Вуз\2 курс\1 семестр\ООП\3_semestr_OOP\LR5\LR5_TEST\bin\Debug\net6.0\LR5_TEST.dll
+C:\Users\Фёдор\Desktop\Вуз\2 курс\1 семестр\ООП\3_semestr_OOP\LR5\LR5_TEST\bin\Debug\net6.0\LR5_TEST.pdb
+C:\Users\Фёдор\Desktop\Вуз\2 курс\1 семестр\ООП\3_semestr_OOP\LR5\LR5_TEST\obj\Debug\net6.0\LR5_TEST.dll
+C:\Users\Фёдор\Desktop\Вуз\2 курс\1 семестр\ООП\3_semestr_OOP\LR5\LR5_TEST\obj\Debug\net6.0\refint\LR5_TEST.dll
+C:\Users\Фёдор\Desktop\Вуз\2 курс\1 семестр\ООП\3_semestr_OOP\LR5\LR5_TEST\obj\Debug\net6.0\LR5_TEST.pdb
+C:\Users\Фёдор\Desktop\Вуз\2 курс\1 семестр\ООП\3_semestr_OOP\LR5\LR5_TEST\obj\Debug\net6.0\LR5_TEST.genruntimeconfig.cache
+C:\Users\Фёдор\Desktop\Вуз\2 курс\1 семестр\ООП\3_semestr_OOP\LR5\LR5_TEST\obj\Debug\net6.0\ref\LR5_TEST.dll

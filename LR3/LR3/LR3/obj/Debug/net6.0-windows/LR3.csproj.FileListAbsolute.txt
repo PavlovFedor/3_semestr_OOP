@@ -1,0 +1,17 @@
+C:\Users\Фёдор\Desktop\Вуз\2 курс\1 семестр\ООП\3_semestr_OOP\LR3\LR3\LR3\bin\Debug\net6.0-windows\LR3.exe
+C:\Users\Фёдор\Desktop\Вуз\2 курс\1 семестр\ООП\3_semestr_OOP\LR3\LR3\LR3\bin\Debug\net6.0-windows\LR3.deps.json
+C:\Users\Фёдор\Desktop\Вуз\2 курс\1 семестр\ООП\3_semestr_OOP\LR3\LR3\LR3\bin\Debug\net6.0-windows\LR3.runtimeconfig.json
+C:\Users\Фёдор\Desktop\Вуз\2 курс\1 семестр\ООП\3_semestr_OOP\LR3\LR3\LR3\bin\Debug\net6.0-windows\LR3.dll
+C:\Users\Фёдор\Desktop\Вуз\2 курс\1 семестр\ООП\3_semestr_OOP\LR3\LR3\LR3\bin\Debug\net6.0-windows\LR3.pdb
+C:\Users\Фёдор\Desktop\Вуз\2 курс\1 семестр\ООП\3_semestr_OOP\LR3\LR3\LR3\obj\Debug\net6.0-windows\LR3.csproj.AssemblyReference.cache
+C:\Users\Фёдор\Desktop\Вуз\2 курс\1 семестр\ООП\3_semestr_OOP\LR3\LR3\LR3\obj\Debug\net6.0-windows\LR3.Form1.resources
+C:\Users\Фёдор\Desktop\Вуз\2 курс\1 семестр\ООП\3_semestr_OOP\LR3\LR3\LR3\obj\Debug\net6.0-windows\LR3.csproj.GenerateResource.cache
+C:\Users\Фёдор\Desktop\Вуз\2 курс\1 семестр\ООП\3_semestr_OOP\LR3\LR3\LR3\obj\Debug\net6.0-windows\LR3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Фёдор\Desktop\Вуз\2 курс\1 семестр\ООП\3_semestr_OOP\LR3\LR3\LR3\obj\Debug\net6.0-windows\LR3.AssemblyInfoInputs.cache
+C:\Users\Фёдор\Desktop\Вуз\2 курс\1 семестр\ООП\3_semestr_OOP\LR3\LR3\LR3\obj\Debug\net6.0-windows\LR3.AssemblyInfo.cs
+C:\Users\Фёдор\Desktop\Вуз\2 курс\1 семестр\ООП\3_semestr_OOP\LR3\LR3\LR3\obj\Debug\net6.0-windows\LR3.csproj.CoreCompileInputs.cache
+C:\Users\Фёдор\Desktop\Вуз\2 курс\1 семестр\ООП\3_semestr_OOP\LR3\LR3\LR3\obj\Debug\net6.0-windows\LR3.dll
+C:\Users\Фёдор\Desktop\Вуз\2 курс\1 семестр\ООП\3_semestr_OOP\LR3\LR3\LR3\obj\Debug\net6.0-windows\refint\LR3.dll
+C:\Users\Фёдор\Desktop\Вуз\2 курс\1 семестр\ООП\3_semestr_OOP\LR3\LR3\LR3\obj\Debug\net6.0-windows\LR3.pdb
+C:\Users\Фёдор\Desktop\Вуз\2 курс\1 семестр\ООП\3_semestr_OOP\LR3\LR3\LR3\obj\Debug\net6.0-windows\LR3.genruntimeconfig.cache
+C:\Users\Фёдор\Desktop\Вуз\2 курс\1 семестр\ООП\3_semestr_OOP\LR3\LR3\LR3\obj\Debug\net6.0-windows\ref\LR3.dll
